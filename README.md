@@ -1,25 +1,15 @@
 
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">🎳 Bowling Score 🎳</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    The bowling score game to calculate the score of with player!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+   </p>
 </p>
 
 
@@ -59,26 +49,31 @@ A Bowling game consists of rolls to clear 10 pins that stand at the end of the B
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+This application was built using:
 
+* [Java 8](https://www.oracle.com/br/java/)
+* [JUnit](https://junit.org/junit5)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Let's run this code! To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+This is an example of how to install Bowling Game.
+```
+1.  Clone the code:
+    git clone https://maven.apache.org/
+    
+2. Enter in the correct Folder
+   cd jobsity
+   
+3.  Run the maven command
+    To build this code with the command mvn clean install.
+  
+```
 
 ### Installation
 
@@ -162,16 +157,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-<br />
-<p align="center">
-
-  <h1 align="center">🎳 Bowling Score 🎳</h3>
-
-  <p align="center">
-    The bowling score game to calculate the score of with player!
-    <br />
-   </p>
-</p>
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -201,10 +186,6 @@ A Bowling game consists of rolls to clear 10 pins that stand at the end of the B
 
 ### Built With
 
-This application was built using:
-
-* [Java 8](https://www.oracle.com/br/java/)
-* [JUnit](https://junit.org/junit5)
 
 <!-- GETTING STARTED -->
 ## Getting Started
