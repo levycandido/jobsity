@@ -26,7 +26,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -55,21 +54,6 @@ This application was built using:
 ## Getting Started
 
 Let's run this code! To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to install Bowling Game.
-```
-1.  Clone the code:
-    git clone git@github.com:levycandido/jobsity.git
-    
-2. Enter in the correct Folder
-   cd jobsity
-   
-3.  Run the maven command
-    To build this code with the command mvn clean install.
-  
-```
 
 ### Installation
 
