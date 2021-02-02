@@ -38,7 +38,8 @@ A Bowling game consists of rolls to clear 10 pins that stand at the end of the B
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This application was built using:
+
 * [Java 8](https://www.oracle.com/br/java/)
 * [JUnit](https://junit.org/junit5)
 
@@ -57,20 +58,18 @@ Let's run this code!
    
 3.  Run the maven command
     To build this code with the command mvn clean install.
- 
-2. Clone the repo
   
 ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+```
 Run the application using the code
 java -jar target\bowling.shell-1.0-SNAPSHOT.jar [origin_path]
 
 Parameters:
-
    The Path of the bowling file.
+```
 <!-- CONTACT -->
 ## Contact
 
