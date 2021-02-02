@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Bowling Score</h3>
+  <h3 align="center">🎳 Bowling Score 🎳</h3>
 
   <p align="center">
     An bowling score game to calculate the score of with player!
@@ -65,15 +65,13 @@ Let's run this code!
 ## Usage
 ```
 Run the application using the code
-java -jar target\bowling.shell-1.0-SNAPSHOT.jar [origin_path]
+java -jar target\challeng-bowling-1.0-SNAPSHOT.jar [origin_path]
 
-Parameters:
+Mandatory Parameters:
    The Path of the bowling file.
 ```
 <!-- CONTACT -->
 ## Contact
 
 Levy Candido - Linkedin: https://www.linkedin.com/in/levycandido/
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
