@@ -13,7 +13,7 @@ import service.impl.CalculatorImpl;
 import service.impl.InputReaderImpl;
 import service.impl.OutputGameImpl;
 
-public class BowllingApp {
+public class BowlingApp {
 
 	public static void main(String[] args) {
 
