@@ -65,7 +65,7 @@ Let's run this code! To get a local copy up and running follow these simple exam
 This is an example of how to install Bowling Game.
 ```
 1.  Clone the code:
-    git clone https://maven.apache.org/
+    git clone git@github.com:levycandido/jobsity.git
     
 2. Enter in the correct Folder
    cd jobsity
@@ -96,9 +96,14 @@ This is an example of how to install Bowling Game.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Follow the instructions below to run the Bowling Game.
+```
+Run the application using the code
+java -jar target\challeng-bowling-1.0-SNAPSHOT.jar [origin_path]
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Mandatory Parameters:
+   The Path of the bowling file.
+```
 
 
 
@@ -207,13 +212,8 @@ Let's run this code!
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-```
-Run the application using the code
-java -jar target\challeng-bowling-1.0-SNAPSHOT.jar [origin_path]
 
-Mandatory Parameters:
-   The Path of the bowling file.
-```
+
 <!-- CONTACT -->
 ## Contact
 
