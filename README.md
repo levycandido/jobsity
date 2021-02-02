@@ -1,59 +1,80 @@
-# Bowling Application
 
-##  Description  
+<br />
+<p align="center">
 
-<p align="center">🎳 lib para construir interfaces do usuário com componentes reutilizáveis</p
+  <h3 align="center">Bowling Score</h3>
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+  <p align="center">
+    An bowling score game to calculate the score of with player!
+    <br />
+   </p>
+</p>
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 
-### Features
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+A Bowling game consists of rolls to clear 10 pins that stand at the end of the Bowling alley. With each roll one can clear from 0 to 10 pins. In each round the player has two rolls at max to knock down 10 pins.
 
-### Pré-requisitos
+### Built With
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Java 8](https://www.oracle.com/br/java/)
+* [JUnit](https://junit.org/junit5)
 
-### 🎲 Rodando o Back End (servidor)
+<!-- GETTING STARTED -->
+## Getting Started
 
-```bash
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+Let's run this code!
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+### Installation
 ```
+1.  Clone the code:
+    git clone https://maven.apache.org/
+    
+2. Enter in the correct Folder
+   cd jobsity
+   
+3.  Run the maven command
+    To build this code with the command mvn clean install.
+ 
+2. Clone the repo
+  
+```
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Run the application using the code
+java -jar target\bowling.shell-1.0-SNAPSHOT.jar [origin_path]
+
+Parameters:
+
+   The Path of the bowling file.
+<!-- CONTACT -->
+## Contact
+
+Levy Candido - Linkedin: https://www.linkedin.com/in/levycandido/
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
