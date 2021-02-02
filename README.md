@@ -5,7 +5,7 @@
   <h1 align="center">🎳 Bowling Score 🎳</h3>
 
   <p align="center">
-    An bowling score game to calculate the score of with player!
+    The bowling score game to calculate the score of with player!
     <br />
    </p>
 </p>
