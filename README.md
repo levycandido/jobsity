@@ -73,32 +73,27 @@ This is an example of how to install Bowling Game.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+```
+1.  Clone the code:
+    git clone git@github.com:levycandido/jobsity.git
+    
+2. Enter in the correct Folder
+   cd jobsity
+   
+3.  Run the maven command
+    To build this code with the command mvn clean install.
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Follow the instructions below to run the Bowling Game.
 ```
-Run the application using the code
-java -jar target\challeng-bowling-1.0-SNAPSHOT.jar [origin_path]
+1. Run the application using the code
+  java -jar target\challeng-bowling-1.0-SNAPSHOT.jar [origin_path]
 
-Mandatory Parameters:
-   The Path of the bowling file.
+2. Mandatory Parameters:
+  The Path of the bowling file.
 ```
 
 <!-- CONTACT -->
